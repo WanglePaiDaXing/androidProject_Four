@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sports" >
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+    </string-array>
+    <string-array name="sports_value" >
+        <item>value1</item>
+        <item>value2</item>
+        <item>value3</item>
+        <item>value4</item>
+    </string-array>
+</resources>
